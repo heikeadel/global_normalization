@@ -27,6 +27,9 @@ python train.py config
 Use the same config file as above. train.py is used for setup 1 and 2,
 train_setup3.py is used for setup 3.
 
+# Contact
+If you have questions, please contact heike.adel@ims.uni-stuttgart.de
+
 # Citation
 
 If you use the code for your work, please cite the following paper:
